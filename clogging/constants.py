@@ -1,0 +1,1 @@
+(LOG_DEBUG, LOG_INFO, LOG_WARN, LOG_ERROR) = range(4)
